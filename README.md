@@ -1,5 +1,5 @@
 # Deven
-Deven is a simple programming Language created for my firend Deven.
+Deven is a simple programming Language created for my friend Deven.
 
 ## Instructions
 1. `p`: Pushes the follwoing integer onto the Stack
